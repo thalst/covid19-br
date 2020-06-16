@@ -64,7 +64,7 @@ você pode propor uma mudança nesse arquivo diretamente pelo botão "editar". :
 
 
 ## Análises e Projetos
-
+- [SRAGAnalyser - uma interface para análise da COVID-19 no Brasil] - https://tsantos.com.br/sraganaliser-uma-interface-para-analise-da-covid-19-no-brasil/
 - [App COVID-19 no Brasil e no Mundo](https://github.com/Gabplay/flutter_covid19_brasil) - [Download](https://bit.ly/downloadAppCovidBR)
 - [Corona Cidades - Simulador](https://coronacidades.org/simulacovid/)
 - [Onde tem Coronavírus](https://ondetemcoronavirus.com.br/)
